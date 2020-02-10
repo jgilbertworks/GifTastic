@@ -1,6 +1,12 @@
+body {
+    color: black;
+    letter-spacing: .1em;
+    text-decoration: none;
+}
+
 h1 {
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-    font-size: 92px;
+    font-size: 1.5vw;
     padding: 80px 50px;
     text-align: center;
     text-transform: uppercase;
@@ -31,6 +37,15 @@ img {
     display: block;
     margin-right: auto;
     margin-left: auto;
+}
+
+#movie-form, 
+h4
+ {
+    color: black;
+    font-size: 20px;
+    letter-spacing: .1em;
+    text-decoration: none;
 }
 
 
