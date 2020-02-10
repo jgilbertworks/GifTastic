@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jgilbertworks/GifTastic/issues"
   },
-  "homepage": "https://github.com/jgilbertworks/GifTastic#readme"
+  "homepage": "https://github.com/jgilbertworks/GifTastic#readme",
+  "dependencies": {
+    "npm-install": "^1.3.0"
+  }
 }
